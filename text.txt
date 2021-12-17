@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 nd commit test ,testing git local
+=======
+sdfsfsdfsdf
+add a line first
+nd commit test ,testing git local
+
+check stash
+>>>>>>> Stashed changes
